@@ -8,5 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "baharalidurrani@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baharalidurrani/test-publish-99.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baharalidurrani/test-publish-99/issues"
+  },
+  "homepage": "https://github.com/baharalidurrani/test-publish-99#readme"
 }
